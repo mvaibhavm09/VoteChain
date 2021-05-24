@@ -4,7 +4,7 @@ VoteChain is a Decentralized Web Application, to fulfil the purpose of Secure Vo
 
 ### How to Run the Project locally ?
 
-This is how you can run the project in your machine. Here I have used a linux machine to run the project however if you've a Windows machine you can still read the instruction & try to run them in windows accordingly. Here is a [Youtube-Tutorial-Video](https://www.youtube.com/watch?v=BoH75TkjwHw&feature=youtu.be) for your reference.
+This is how you can run the project in your machine. Here I have used a linux machine to run the project however if you've a Windows machine you can still read the instruction & try to run them in windows accordingly. Here is a [Tutorial-Video](https://drive.google.com/file/d/1qwHTHJ30I_xfqKlwlZwDwt6hgkbbqGbQ/view?usp=sharing) for your reference.
 ### Prerequisite
 * [Ganache](https://www.trufflesuite.com/ganache): For Personal Ethereum Blockchain
 * [Web3Js](https://web3js.readthedocs.io/en/v1.3.0/): Ethereum Javascript Library
@@ -28,5 +28,5 @@ npm run dev
 
 ## Support or Contact
 
-For any queries, ping me here: [sanmol016@gmail.com](mailto:sanmol016@gmail.com)
+For any queries, ping me here: [mvaibhavm09@gmail.com](mailto:mvaibhavm09@gmail.com)
 
