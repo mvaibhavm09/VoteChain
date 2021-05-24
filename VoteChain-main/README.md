@@ -6,11 +6,11 @@
 <br>A Decentralized e-Voting Portal based on Ethereum Blockchain. 
 
 ## About
-This is a Blockchain-based project, made by me [[Anmol Singh Yadav](https://www.linkedin.com/in/anmolsinghyadav/)] as a semester project in Vellore Institute of Technology. This projet is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
+This is a Blockchain-based project, made by me [[Vaibhav Mishra](https://www.linkedin.com/in/vaibhav-mishra-85178018b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzI468xZOQyK201oFt76f4Q%3D%3D)] as a semester project in Vellore Institute of Technology. This projet is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
 In this project we have used Etherem Blockchain to demonstrate the voting procedure.
 
 ## How to Run the Project ?
-This is how you can run the project in your machine. Here I have used a linux machine to run the project however if you've a Windows machine you can still read the instruction & try to run them in windows accordingly. Here is a [Youtube-Tutorial-Video](https://www.youtube.com/watch?v=BoH75TkjwHw&feature=youtu.be) for your reference.
+This is how you can run the project in your machine. Here I have used a linux machine to run the project however if you've a Windows machine you can still read the instruction & try to run them in windows accordingly. Here is a [Tutorial-Video](https://drive.google.com/file/d/1qwHTHJ30I_xfqKlwlZwDwt6hgkbbqGbQ/view?usp=sharing) for your reference.
 ### Prerequisite
 * [Ganache](https://www.trufflesuite.com/ganache): For Personal Ethereum Blockchain
  <div align="cemter"><img src="/docs/ganache-home-empty.png" height=320 width=560/></div> <br/>
@@ -34,4 +34,4 @@ npm run dev
 7. You will see a final pop-up button from the metamask where you will be asked to confirm the transaction. You have to click on Confirm and congratulations you have casted your vote.
 --- 
 
-For any queries, ping me here: [sanmol016@gmail.com](mailto:sanmol016@gmail.com)
+For any queries, ping me here: [mvaibhavm09@gmail.com](mailto:mvaibhavm09@gmail.com)
