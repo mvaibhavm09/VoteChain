@@ -32,4 +32,4 @@ npm run dev
 7. You will see a final pop-up button from the metamask where you will be asked to confirm the transaction. You have to click on Confirm and congratulations you have casted your vote.
 --- 
 
-For any queries, ping me here: [mvaibhavm09@gmail.com](mailto:mvm09@duck.com)
+For any queries, ping me here: [mvm09@duck.com](mailto:mvm09@duck.com)
