@@ -6,7 +6,7 @@
 <br>A Decentralized e-Voting Portal based on Ethereum Blockchain. 
 
 ## About
-This is a Blockchain-based project, made by me [[Vaibhav Mishra](https://www.linkedin.com/in/vaibhav-mishra-85178018b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzI468xZOQyK201oFt76f4Q%3D%3D)] as a semester project in Vellore Institute of Technology. This projet is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
+This is a Blockchain-based project, made by me [[Vaibhav Mishra](https://www.linkedin.com/in/vaibhav-mishra-85178018b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzI468xZOQyK201oFt76f4Q%3D%3D)] as a semester project in Vellore Institute of Technology. This project is entirely based on Ethereum Blockchain with Web3Js to link it with HTML. Blockchain Technology is yet very hard to be hacked [ Until You have committed mistakes in Protocols or Coding Part ] that is what allows implementation of Blockchain in the Voting System. Once Blockchain is introduced in the Voting System, no one can put question on it's integrity. Thus, an inititative, of switching our voting system on Blockchain must be done by Government.
 In this project we have used Etherem Blockchain to demonstrate the voting procedure.
 
 ## How to Run the Project ?
